@@ -8,6 +8,13 @@
       "when": 1751934232416,
       "tag": "0000_sturdy_diamondback",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1751981933104,
+      "tag": "0001_cute_scalphunter",
+      "breakpoints": true
     }
   ]
 }
